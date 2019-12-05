@@ -1,8 +1,8 @@
 #mainPage {
 background: #AFCE72;
-background: -moz-linear-gradient(-45deg, #AFCE72 0%, #65A45F 50%, #79C580 100%);
-background: -webkit-linear-gradient(-45deg, #AFCE72 0%, #65A45F 50%, #79C580 100%);
-background: linear-gradient(135deg, #AFCE72 0%, #65A45F 50%, #79C580 100%);
+background: -moz-linear-gradient(left, #AFCE72 0%, #65A45F 50%, #79C580 100%);
+background: -webkit-linear-gradient(left, #AFCE72 0%, #65A45F 50%, #79C580 100%);
+background: linear-gradient(to right, #AFCE72 0%, #65A45F 50%, #79C580 100%);
 }
 
 #mainTitle {
