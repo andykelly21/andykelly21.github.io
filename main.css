@@ -5,9 +5,12 @@ background: -webkit-linear-gradient(left, #AFCE72 0%, #65A45F 50%, #79C580 100%)
 background: linear-gradient(to right, #AFCE72 0%, #65A45F 50%, #79C580 100%);
 }
 
-#mainTitle {
+#mainTitle, #majorStmt {
 	color: white;
+	background: #9E999B;
+	margin: 5px, 500px;
 }
-h1{
-	color: grey
+#sophLeh, #minorStmt{
+	color: white;
+	background: #B3ADAF;
 }
